@@ -177,3 +177,9 @@ footer a:hover {
   background: rgba(0, 255, 0, 0.5);
   transform: translateY(1px);
 }
+
+@media (min-width:700px) {
+:root {
+  --bg-url: url(./)
+}
+}
